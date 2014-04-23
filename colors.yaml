@@ -50,6 +50,15 @@
   :fg: 244
   :bg: 234
 
+# in index views the @ symbol
+:with_attachment:
+    :fg: 208
+    :bg: 233
+    :highlight: with_attachment_highlight
+:with_attachment_highlight:
+    :fg: 208
+    :bg: 234
+
 :size_widget:
   :fg: 81
   :bg: 233
